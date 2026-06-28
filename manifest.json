@@ -1,0 +1,23 @@
+[
+  {
+    "id": "grand_piano_sf2",
+    "name": "Grand Piano Premium",
+    "category": "Piano",
+    "size_mb": 934,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/piano_bundled.sf2.enc"
+  },
+  {
+    "id": "ambient_pad_celestial",
+    "name": "Celestial Shimmer Pads",
+    "category": "Tonic Pad",
+    "size_mb": 85,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/celestial_shimmer.zip"
+  },
+  {
+    "id": "warm_pad_analog",
+    "name": "Warm Analog Pads",
+    "category": "Pad",
+    "size_mb": 120,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/warm_analog.sf2.enc"
+  }
+]
