@@ -1,23 +1,23 @@
 [
   {
-    "id": "grand_piano_sf2",
-    "name": "Grand Piano Premium",
+    "id": "astoria_grand",
+    "name": "Astoria Grand",
     "category": "Piano",
-    "size_mb": 934,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/piano_bundled.sf2.enc"
+    "size_mb": 891,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Astoria%20Grand.sf2.enc"
   },
   {
-    "id": "ambient_pad_celestial",
-    "name": "Celestial Shimmer Pads",
+    "id": "ballad_key",
+    "name": "Ballad Key",
+    "category": "Piano",
+    "size_mb": 51,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Ballad%20Key.sf2.enc"
+  },
+  {
+    "id": "waves",
+    "name": "Waves Tonic Pad",
     "category": "Tonic Pad",
-    "size_mb": 85,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/celestial_shimmer.zip"
-  },
-  {
-    "id": "warm_pad_analog",
-    "name": "Warm Analog Pads",
-    "category": "Pad",
-    "size_mb": 120,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/warm_analog.sf2.enc"
+    "size_mb": 88,
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Waves.zip"
   }
 ]
