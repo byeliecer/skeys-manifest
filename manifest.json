@@ -4,20 +4,20 @@
     "name": "Astoria Grand",
     "category": "Piano",
     "size_mb": 891,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Astoria%20Grand.sf2.enc"
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Astoria%20Grand.sf2.enc?pack_id=astoria_grand"
   },
   {
     "id": "ballad_key",
     "name": "Ballad Key",
     "category": "Piano",
     "size_mb": 51,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Ballad%20Key.sf2.enc"
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Ballad%20Key.sf2.enc?pack_id=ballad_key"
   },
   {
     "id": "waves",
     "name": "Waves Tonic Pad",
     "category": "Tonic Pad",
     "size_mb": 88,
-    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Waves.zip"
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Waves.zip?pack_id=waves"
   }
 ]
