@@ -1,29 +1,29 @@
 [
- {
-  "id": "live_ _acustico",
-  "package_id": "live_pack",
-  "name": "Live | Acustico",
-  "category": "Piano",
-  "size_mb": 855.5,
-  "purchase_url": "",
-  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20acustico.sf2.enc?pack_id=live_ _acustico"
-}
-{
-  "id": "live_ _fx_1",
-  "package_id": "live_pack",
-  "name": "Live | FX 1",
-  "category": "Pad",
-  "size_mb": 24.8,
-  "purchase_url": "",
-  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20fx%201.sf2.enc?pack_id=live_ _fx_1"
-}
-{
-  "id": "live_ _fantasy_bells",
-  "package_id": "live_pack",
-  "name": "Live | Fantasy Bells",
-  "category": "Synth",
-  "size_mb": 106.6,
-  "purchase_url": "",
-  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20fantasy%20bells.sf2.enc?pack_id=live_ _fantasy_bells"
-}
+  {
+    "id": "live_acustico",
+    "package_id": "live_pack",
+    "name": "Live | Acustico",
+    "category": "Piano",
+    "size_mb": 855.5,
+    "purchase_url": "",
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live_acustico.sf2.enc?pack_id=live_acustico"
+  },
+  {
+    "id": "live_fx_1",
+    "package_id": "live_pack",
+    "name": "Live | FX 1",
+    "category": "Pad",
+    "size_mb": 24.8,
+    "purchase_url": "",
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live_fx_1.sf2.enc?pack_id=live_fx_1"
+  },
+  {
+    "id": "live_fantasy_bells",
+    "package_id": "live_pack",
+    "name": "Live | Fantasy Bells",
+    "category": "Synth",
+    "size_mb": 106.6,
+    "purchase_url": "",
+    "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live_fantasy_bells.sf2.enc?pack_id=live_fantasy_bells"
+  }
 ]
