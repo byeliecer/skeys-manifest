@@ -31,7 +31,7 @@
   "package_id": "live_pack",
   "name": "Live | Power 1",
   "category": "Lead",
-  "size_mb": 0.3,
+  "size_mb": 3,
   "purchase_url": "",
   "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live_power_1.sf2.enc?pack_id=live_power_1"
 }
