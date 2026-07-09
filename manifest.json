@@ -1,23 +1,56 @@
 [
   {
     "id": "astoria_grand",
-    "name": "Astoria Grand",
+    "package_id": "live_pack",
+    "name": "Live | Astoria Grand",
     "category": "Piano",
     "size_mb": 891,
+    "purchase_url": "",
     "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Astoria%20Grand.sf2.enc?pack_id=astoria_grand"
   },
   {
     "id": "ballad_key",
-    "name": "Ballad Key",
+    "package_id": "live_pack",
+    "name": "Live | Ballad Key",
     "category": "Piano",
     "size_mb": 51,
+    "purchase_url": "",
     "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Ballad%20Key.sf2.enc?pack_id=ballad_key"
   },
   {
     "id": "waves",
-    "name": "Waves Tonic Pad",
+    "package_id": "live_pack",
+    "name": "Live | Waves Tonic Pad",
     "category": "Tonic Pad",
     "size_mb": 88,
+    "purchase_url": "",
     "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/Waves.zip?pack_id=waves"
   }
+  {
+  "id": "live_ _acustico",
+  "package_id": "live",
+  "name": "Live | Acustico",
+  "category": "Piano",
+  "size_mb": 855.5,
+  "purchase_url": "",
+  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20acustico.sf2.enc?pack_id=live_ _acustico"
+}
+{
+  "id": "live_ _fx_1",
+  "package_id": "live",
+  "name": "Live | FX 1",
+  "category": "Pad",
+  "size_mb": 24.8,
+  "purchase_url": "",
+  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20fx%201.sf2.enc?pack_id=live_ _fx_1"
+}
+{
+  "id": "live_ _fantasy_bells",
+  "package_id": "live",
+  "name": "Live | Fantasy Bells",
+  "category": "Synth",
+  "size_mb": 106.6,
+  "purchase_url": "",
+  "download_url": "https://live-sound-download-api.byeliecerarreaza.workers.dev/download/live%20 %20fantasy%20bells.sf2.enc?pack_id=live_ _fantasy_bells"
+}
 ]
