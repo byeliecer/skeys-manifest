@@ -28,7 +28,7 @@
   }
   {
   "id": "live_power_1",
-  "package_id": "live_pack",
+  "package_id": "live",
   "name": "Live | Power 1",
   "category": "Lead",
   "size_mb": 3,
